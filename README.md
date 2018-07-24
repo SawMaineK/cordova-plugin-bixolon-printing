@@ -24,7 +24,7 @@ $ cordova plugin add https://github.com/SawMaineK/cordova-plugin-bixolon-printin
 ### Phonegap CLI
 
 ```
-$ phonegap local plugin add https://github.com/itsKaynine/cordova-plugin-bixolon-printing.git
+$ phonegap local plugin add https://github.com/SawMaineK/cordova-plugin-bixolon-printing.git
 ```
 
 ## Global Options
