@@ -18,7 +18,7 @@ Cordova plugin for Bixolon mobile printers using the official UPOS compliant API
 ### Cordova CLI
 
 ```
-$ cordova plugin add https://github.com/itsKaynine/cordova-plugin-bixolon-printing.git
+$ cordova plugin add https://github.com/SawMaineK/cordova-plugin-bixolon-printing.git
 ```
 
 ### Phonegap CLI
