@@ -1,15 +1,19 @@
 {
   "name": "cordova-plugin-bixolon-printing",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "description": "Bixolon mobile printer plugin for Cordova",
+  "types": "./types/index.d.ts",
   "cordova": {
     "id": "cordova-plugin-bixolon-printing",
     "platforms": [
       "android"
     ]
   },
-  "description": "Bixolon mobile printer plugin for Cordova",
-  "repository": "https://github.com/itsKaynine/cordova-plugin-bixolon-printing.git",
-  "issue": "https://github.com/itsKaynine/cordova-plugin-bixolon-printing/issues",
-  "author": "Punnawut Khowkittipaiboon (itsKaynine)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SawMaineK/cordova-plugin-bixolon-printing"
+  },
+  "issue": "https://github.com/SawMaineK/cordova-plugin-bixolon-printing/issues",
+  "author": "Saw Maine K",
   "license": "Apache 2.0"
 }
